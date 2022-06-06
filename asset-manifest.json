@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/HCEC-Friends/static/css/main.37f23296.css",
+    "main.js": "/HCEC-Friends/static/js/main.1734c65b.js",
+    "static/media/Chris.png": "/HCEC-Friends/static/media/Chris.a8f344d5ca5a0110a7e6.png",
+    "static/media/Gerardo.png": "/HCEC-Friends/static/media/Gerardo.218fb248347f9245b1c6.png",
+    "static/media/Josue.png": "/HCEC-Friends/static/media/Josue.3db6fb3cd42476012fcf.png",
+    "static/media/Orlando.png": "/HCEC-Friends/static/media/Orlando.898b937f56fcb7441ff0.png",
+    "static/media/Robert.png": "/HCEC-Friends/static/media/Robert.6ab509ac113c111a3edb.png",
+    "static/media/Becky.png": "/HCEC-Friends/static/media/Becky.6eb0d1a171d8d3345c2e.png",
+    "static/media/Aija.png": "/HCEC-Friends/static/media/Aija.ea161c71a35ea4cf3f7c.png",
+    "static/media/Thomas.png": "/HCEC-Friends/static/media/Thomas.a217b403ee5eb7156dcb.png",
+    "static/media/Scott.png": "/HCEC-Friends/static/media/Scott.787231ecee9615f60e0c.png",
+    "static/media/Leia.png": "/HCEC-Friends/static/media/Leia.e6ca02945916c219684a.png",
+    "static/media/Nick.png": "/HCEC-Friends/static/media/Nick.cd09029acd4a92537f95.png",
+    "static/media/Dean.png": "/HCEC-Friends/static/media/Dean.f8be3a19fe8fb6a9440f.png",
+    "static/media/Garrison.png": "/HCEC-Friends/static/media/Garrison.3c3f085ebb3a21b8fb12.png",
+    "static/media/Ellaa.png": "/HCEC-Friends/static/media/Ellaa.838b9311a8963c8259cd.png",
+    "static/media/Lydia.png": "/HCEC-Friends/static/media/Lydia.0a946688aa3f0a6585d9.png",
+    "static/media/Henry.png": "/HCEC-Friends/static/media/Henry.ce6758622aaaa6f9bbdc.png",
+    "static/media/John.png": "/HCEC-Friends/static/media/John.ad0471be49ab5ee4c208.png",
+    "static/media/Severin.png": "/HCEC-Friends/static/media/Severin.c5286f689a1147988272.png",
+    "static/media/Maggie.png": "/HCEC-Friends/static/media/Maggie.62bab0b150fc6b52f713.png",
+    "static/media/Kenny.png": "/HCEC-Friends/static/media/Kenny.0d78f737dd599245c610.png",
+    "static/media/Keith.png": "/HCEC-Friends/static/media/Keith.1a31b330f0034a7e3ae8.png",
+    "static/media/Gilbert.png": "/HCEC-Friends/static/media/Gilbert.b0a4d2a5ae31d184c597.png",
+    "static/media/Lucas.png": "/HCEC-Friends/static/media/Lucas.31bb8da98c1b04063e46.png",
+    "static/media/Ricky.png": "/HCEC-Friends/static/media/Ricky.818da3975c706e4a69ee.png",
+    "static/media/Hunter.png": "/HCEC-Friends/static/media/Hunter.3d3c056ef8c6c61d4e33.png",
+    "static/media/Mauricio.png": "/HCEC-Friends/static/media/Mauricio.7647a10b423dc8ccda4a.png",
+    "static/media/Jose.png": "/HCEC-Friends/static/media/Jose.d0518031b06a31859377.png",
+    "static/media/Mason.png": "/HCEC-Friends/static/media/Mason.eb2ac51276436ce749af.png",
+    "static/media/Manny.png": "/HCEC-Friends/static/media/Manny.20c27e1dc97f8025d5e9.png",
+    "index.html": "/HCEC-Friends/index.html",
+    "main.37f23296.css.map": "/HCEC-Friends/static/css/main.37f23296.css.map",
+    "main.1734c65b.js.map": "/HCEC-Friends/static/js/main.1734c65b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f23296.css",
+    "static/js/main.1734c65b.js"
+  ]
+}
