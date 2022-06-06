@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+.profile-pic{
+  width:95px;
+  transform:translateY(-30px);
+  border-radius:10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.4)
+}
+.profile-pic:hover{
+  transform: translateY(-25px)scale(1.05);
+  transition:0.5s
+}
+body{
+  background:rgb(31, 30, 30);
+}
+*{
+  color:white;
+}
+*, *::before, *::after{
+  margin:0;
+  padding:0;
+  box-sizing:border-box
+}
+.FriendCard{
+  background:#09101d;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction:column;
+  margin:15px;
+  border-radius:5px;
+  width:260px;
+  height:340px;
+  border:1px solid rgba(255,255,255,0.3);
+  cursor:pointer;
+
+  background: rgba( 255, 255, 255, 0.1 );
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.FriendCard:hover{
+  transition:0.25s;
+  box-shadow:0 0 30px rgba(0,0,255,0.7);
+  transform:scale(1.04);
+  border-radius:10px;
+}
+.container{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-wrap:wrap;
+  width:100vw;
+  margin-top:80px;
+  /* background:salmon */
+}
+.name{
+  font-family:sans-serif;
+  font-size:25px;
+  text-align:center
+}
+.age{
+  font-family:'Montserrat',sans-serif;
+  font-weight:100;
+  font-size:15px;
+}
+.grade{
+  transform:translateY(64.4px);
+  font-family:'Montserrat',sans-serif;
+  font-weight:100;
+  background:rgb(0, 46, 228);
+  /* rgb(228, 68, 0) */
+
+  height:35px;
+width:260px;
+  font-size:15px;
+  border-radius:0 0 5px 5px;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  position:relative;
+  top:3%;
+  font-weight:bold;
+}
+.header{
+  position:absolute;
+  top:2%;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-size:45px;
+  
+}
+
