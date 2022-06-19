@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HCEC-Friends/static/css/main.6643a485.css",
-    "main.js": "/HCEC-Friends/static/js/main.650f3bc8.js",
+    "main.css": "/HCEC-Friends/static/css/main.5d62c5be.css",
+    "main.js": "/HCEC-Friends/static/js/main.012a6bb3.js",
     "static/media/Chris.png": "/HCEC-Friends/static/media/Chris.a8f344d5ca5a0110a7e6.png",
     "static/media/Gerardo.png": "/HCEC-Friends/static/media/Gerardo.218fb248347f9245b1c6.png",
     "static/media/Josue.png": "/HCEC-Friends/static/media/Josue.3db6fb3cd42476012fcf.png",
@@ -32,11 +32,11 @@
     "static/media/Mason.png": "/HCEC-Friends/static/media/Mason.eb2ac51276436ce749af.png",
     "static/media/Manny.png": "/HCEC-Friends/static/media/Manny.20c27e1dc97f8025d5e9.png",
     "index.html": "/HCEC-Friends/index.html",
-    "main.6643a485.css.map": "/HCEC-Friends/static/css/main.6643a485.css.map",
-    "main.650f3bc8.js.map": "/HCEC-Friends/static/js/main.650f3bc8.js.map"
+    "main.5d62c5be.css.map": "/HCEC-Friends/static/css/main.5d62c5be.css.map",
+    "main.012a6bb3.js.map": "/HCEC-Friends/static/js/main.012a6bb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6643a485.css",
-    "static/js/main.650f3bc8.js"
+    "static/css/main.5d62c5be.css",
+    "static/js/main.012a6bb3.js"
   ]
 }
